@@ -1,12 +1,12 @@
 # Environment
 OS: Ubuntu Linux 18.04 LTS  
-IP: 185.95.16.202  
-SSH user: user  
-SSH pass: MBDzNq3q2h  
+IP: <redacted>  
+SSH user: <redacted>
+SSH pass: <redacted>
 SSH por
 
 ```bash
-ssh user@185.95.16.202 -p 2222
+ssh <user>@<host> -p <port>
 ```
 
 # Prerequisites

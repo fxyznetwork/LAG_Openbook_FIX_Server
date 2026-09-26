@@ -51,7 +51,7 @@ int main ()
     auto market = SerumMarket(
         // PUBKEY, 
         // SECRETKEY, 
-        // "https://nd-664-169-151.p2pify.com/a89ccd991de179587a0b8e3356409a9b",
+        // "https://<SOLANA_RPC_ENDPOINT>",
         market_settings,
         logger,
         pools,
